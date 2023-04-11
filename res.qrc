@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>箭头.png</file>
+        <file>密码.png</file>
+        <file>平台管理—用户管理.png</file>
+        <file>advancedgroup48.png</file>
+        <file>supergroup48.png</file>
+        <file>refresh.png</file>
+    </qresource>
+</RCC>
